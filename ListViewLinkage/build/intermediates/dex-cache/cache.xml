@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/zhaotingkun/Desktop/c/ListViewLinkage/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/zhaotingkun/Desktop/c/ListViewLinkage/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_f789f97855e5b1ca1e0ed0b2ece77c9cfd15c744.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaotingkun/Downloads/ListViewLinkage/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/zhaotingkun/Downloads/ListViewLinkage/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_dc7b1365a66aa57b3b40423a66d714ca45c38fc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaotingkun/Downloads/ListViewLinkage/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/zhaotingkun/Downloads/ListViewLinkage/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.3.0_5685b5381dcd5758bcd769a07dce57186b33ca6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaotingkun/Desktop/c/ListViewLinkage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/zhaotingkun/Desktop/c/ListViewLinkage/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.3.0_128d778225a6cf653029ebf768458510839529f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaotingkun/Downloads/ListViewLinkage/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/zhaotingkun/Downloads/ListViewLinkage/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.3.0_937cb9cbb45773cd8f7fed29d1b30b19f70a2984.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaotingkun/Desktop/c/ListViewLinkage/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/zhaotingkun/Desktop/c/ListViewLinkage/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.3.0_6dc2a50561a883918f38275a0edc2479e8a504ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaotingkun/Desktop/c/ListViewLinkage/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/zhaotingkun/Desktop/c/ListViewLinkage/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.3.0_ccebe2c56c975c6a1dfee4680564c03519b4ba11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaotingkun/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/zhaotingkun/Downloads/ListViewLinkage/app/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_d1d94468715dcabcd362e18c377ecadef864e478.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaotingkun/Downloads/ListViewLinkage/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/zhaotingkun/Downloads/ListViewLinkage/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.3.0_6b1f696201ae548ca0ea6223de8e0ab6a3e57216.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaotingkun/Desktop/c/ListViewLinkage/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/zhaotingkun/Desktop/c/ListViewLinkage/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.3.0_a64b4e533a66fa5c0e1ce5463fade9c85e53cddf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaotingkun/Downloads/ListViewLinkage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/zhaotingkun/Downloads/ListViewLinkage/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.3.0_bf1e3398bd9825eeb5e723ace5583c8b11dc40a0.jar" />
+    </item>
+
+</items>
